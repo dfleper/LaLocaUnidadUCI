@@ -10,16 +10,14 @@ public class App {
 		SpringApplication.run(App.class, args);
 
 		System.out.println(" ");
-		System.out.println("\033[31m");
 		System.out.println("Maxima Capacidad de la UCI: 16");
 		System.out.println("Cantidad de Pacientes: 32, 1 Paciente cada 250 ms");
 		System.out.println("Cantidad de Doctores: 8, 1 Doctor cada 3 segundos");
 		System.out.println("Cantidad de Enfermeros: 16, 1 Enfermero cada 3 segundos");
 		System.out.println("Proporcion 1 Doctor | 4 Pacientes");
 		System.out.println("Proporcion 2 Enfermeros | 4 Pacientes");
-		System.out.println("\033[35m");
+		System.out.println(" ");
 		System.out.println("INICIO DE SIMULACION...");
-		System.out.println("\u001B[0m");
 		System.out.println(" ");
 
 		HospitalUci objHospitalUci = new HospitalUci();
