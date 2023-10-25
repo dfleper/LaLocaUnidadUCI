@@ -3,8 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/LaLocaUnidadUCI?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/LaLocaUnidadUCI?color=blue&label=last-commit&logo=github&logoColor=white)
 
-####  - Demostrar al Director que el personal es infuficiente para atender a 32 pacientes.
 ####  - Demonstrate to the Director that there are insufficient staff to care for 32 patients.
+####  - Demostrar al Director que el personal es infuficiente para atender a 32 pacientes.
 
 #### Threads exercise in Java with Spring Tool Suite 4 and JDK 17. 🚑
 - The ICU can accommodate 16 patients.
