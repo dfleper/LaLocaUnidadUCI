@@ -27,9 +27,9 @@
 - Hay 16 enfermeros de guardia, el tiempo de estancia es de 3 segundos.
 - El paciente no podrá entrar nunca en la UCI si está llena o si no hay 
   como mínimo un doctor y un enfermero.
-- Los doctores solo podrán entrar a la UCI si no hay ningún doctor o si la
+- Los doctores sólo podrán entrar a la UCI si no hay ningún doctor o si la
   proporción doctores pacientes es inferior a 1|4.
-- Los enfermeros solo podrán entrar en la UCI si no hay ningún enfermero o si
+- Los enfermeros sólo podrán entrar en la UCI si no hay ningún enfermero o si
   la proporcion enfermeros pacientes es inferior a 2|4.
 
 https://github.com/dfleper/LaLocaUnidadUCI/assets/124105822/bbb32003-a017-483a-ad4c-1f2ce0fcbf45
